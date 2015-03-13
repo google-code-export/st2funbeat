@@ -1,0 +1,1 @@
+The project develops a pluging to training diary software SportsTrack developed by Zone Five Software, that exports excercise data to swedish online training diary Funbeat.se.
